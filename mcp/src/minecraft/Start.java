@@ -22,6 +22,7 @@ public class Start
         int passIndex = -1;
         int sessIndex = -1;
         int versIndex = -1;
+        System.out.println("This is a test");
 
         for (int x = 0; x < args.length; x++)
         {
